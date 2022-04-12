@@ -95,8 +95,8 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=shehan-shyaminda&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/shehan-shyaminda/My-Bridge-IOS.git" title="My-Bridge IOS"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=shehan-shyaminda&repo=My-Bridge-IOS&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/shehan-shyaminda/covid-shield.git" title="Covid Shield"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=shehan-shyaminda&repo=covid-shield&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br><br><br><br><br><br>
 <h4 align="center">
