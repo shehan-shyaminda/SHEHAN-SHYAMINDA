@@ -18,7 +18,7 @@
   Hi, I'm Dinuka Shehan, Computer Engineer & Software Developer from Sri-Lanka
   <br>
   <br>
-  🔬 I'm currently studying for a computing degree in National Institite of Business Management
+  🔬 I'm currently studying for a computing degree in National Institite of Business Management (NIBM)
   <br>
   💻 I love writing code and learn anythings about it
   <br>
@@ -26,7 +26,7 @@
   <br>
   💬 Ask me anything about from <a href="https://github.com/shehan-shyaminda/SHEHAN-SHYAMINDA/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: shehan.shyaminda@gmail.com">osmandurdag@hotmail.com</a>
+  📫 How to reach me: <a href="mailto: shehan.shyaminda@gmail.com">shehan.shyaminda@gmail.com</a>
 </p>
 
 <hr>
