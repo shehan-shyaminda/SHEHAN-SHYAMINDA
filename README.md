@@ -24,7 +24,7 @@
   <br>
   📚 I’m currently learning how to build Crypto Currency with Android
   <br>
-  💬 Ask me anything about from <a href="https://github.com/shehan-shyaminda/SHEHAN-SHYAMINDA/issues" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://www.linkedin.com/in/dinuka-shehan/" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: shehan.shyaminda@gmail.com">shehan.shyaminda@gmail.com</a>
 </p>
